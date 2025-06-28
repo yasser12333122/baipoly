@@ -4,11 +4,11 @@
 
 ## 🚀 Features
 
-- 🏘️ Buy and upgrade properties
+- 🏘️ Buy and upgrade properties and more 
 - 💰 Collect rent and bankrupt opponents
 - 🔁 Local multiplayer support
 - 🎨 Custom cards, tokens, and themed assets
-- 🎯 Unique game rules inspired by Babipoly’s custom world
+- 🎯 Unique game rules inspired by Babipoly’s custom world edited
 
 ## 🧩 Gameplay
 
@@ -18,7 +18,7 @@ Play just like Monopoly — but with custom locations, local humor, and themed m
 - Special Chance and Community cards with a twist
 - Fun events and random in-game surprises
 
-## 📸 Screenshots
+## 📸 picturess
 
 *Coming soon – add some gameplay or board screenshots here*
 
